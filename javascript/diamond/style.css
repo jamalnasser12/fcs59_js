@@ -1,0 +1,14 @@
+
+
+.content{
+    background-color: antiquewhite;
+    border-radius: 26px;
+    margin: 25px;
+    padding: 25px;
+}
+#display{
+    background-color: rgb(186, 168, 168);
+    border-radius: 26px;
+    margin: 25px;
+    padding: 25px;
+}

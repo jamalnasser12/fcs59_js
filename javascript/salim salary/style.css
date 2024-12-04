@@ -1,0 +1,25 @@
+/* these are the styling when callin a class we put .class name when calling 
+an id we us #name of id and *is used to general stytling */
+*{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: medium;
+   font-weight: 200;
+   font-style: oblique
+   
+
+}
+.firstSection{
+    background-color: aqua;
+    font-size: large;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+#display{
+    background-color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
